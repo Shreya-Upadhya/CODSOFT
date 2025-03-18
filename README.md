@@ -3,7 +3,7 @@
 
 **Calculator**
 
-![Screenshot 2025-03-18 183436](https://github.com/user-attachments/assets/23177c4f-9e85-4ec3-bfde-48bc38014e5c)
+![Screenshot 2025-03-18 184610](https://github.com/user-attachments/assets/37b18a2e-64e1-4190-9093-1f80df6c0962)
 
 **Landing Page**
 
