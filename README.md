@@ -36,16 +36,6 @@ A personal portfolio website highlighting:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-## 🚀 Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- No additional installations required
-
-### Installation
-
-1. **Clone the repository:**
-
 ## 💡 What I Learned
 
 Through building these projects, I gained hands-on experience with:
