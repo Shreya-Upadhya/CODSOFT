@@ -1,3 +1,61 @@
+# Web Development
+
+A collection of frontend projects demonstrating fundamental web development skills using HTML, CSS, and JavaScript.
+
+## 🎯 About
+
+This repository contains three frontend projects I built while learning web development fundamentals. Each project focuses on different aspects of frontend development, from interactive JavaScript functionality to responsive design and personal branding [web:51][web:50].
+
+## 🚀 Projects
+
+### 1. Calculator
+A calculator application featuring:
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Clean, intuitive user interface
+- Real-time calculation display
+- Error handling for invalid operations
+
+### 2. Landing Page
+A modern, responsive landing page showcasing:
+- Mobile-first responsive design
+- CSS Grid and Flexbox layouts
+- Smooth scrolling navigation
+- Professional typography and color scheme
+
+### 3. Portfolio
+A personal portfolio website highlighting:
+- Professional presentation of projects
+- About me section with skills overview
+- Contact information and social links
+- Responsive design across all devices
+
+## 🛠️ Technologies Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- No additional installations required
+
+### Installation
+
+1. **Clone the repository:**
+
+## 💡 What I Learned
+
+Through building these projects, I gained hands-on experience with:
+
+- **HTML Semantics:** Proper structure and accessibility considerations
+- **CSS Layouts:** Flexbox, Grid, and responsive design patterns
+- **JavaScript DOM:** Event handling, manipulation, and user interactions
+- **Problem Solving:** Debugging and implementing user-friendly features
+- **Version Control:** Git workflow and project organization
+- **Web Standards:** Cross-browser compatibility and performance optimization
 
 ||Screenshots||
 
