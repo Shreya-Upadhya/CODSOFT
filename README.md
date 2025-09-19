@@ -47,7 +47,7 @@ Through building these projects, I gained hands-on experience with:
 - **Version Control:** Git workflow and project organization
 - **Web Standards:** Cross-browser compatibility and performance optimization
 
-##  Screenshots
+##  📷 Screenshots
 
 **Calculator**
 
